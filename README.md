@@ -37,5 +37,5 @@ Hello! I'm a software developer that would like to help people to build what the
 If you have any questions, collaboration opportunities, or need assistance, feel free to contact me. I'm open to working on new projects.
 
 - Email: [juliodoar@gmail.com](mailto:juliodoar@gmail.com)
-- LinkedIn: [Julio Domínguez Arjona](www.linkedin.com/in/julio-domínguez-arjona)
+- LinkedIn: [Julio Domínguez Arjona](https://www.linkedin.com/in/julio-domínguez-arjona)
 
