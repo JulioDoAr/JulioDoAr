@@ -20,16 +20,16 @@ Hello! I'm a software developer that would like to help people to build what the
 
 ## ⚡ Skills
 
-- **Java**: Experienced in object-oriented programming with Java and capable of developing robust applications.
+- **Java**: Experienced in object-oriented programming with Java and capable of developing all type of applications and libraries.
 - **Spring Boot**: Skilled in developing RESTful services and building scalable web applications using Spring Boot framework.
-- **Angular**: Proficient in building dynamic and interactive web applications using Angular framework.
+- **Angular**: Proficient in building web applications using Angular framework.
 - **Python**: Knowledgeable in Python programming language and capable of developing various types of applications.
-- **Django**: Experienced in developing web applications using Django framework, ensuring efficiency and security.
+- **Javascript** (And all its related environment): Front end and back end with Angular/React/Nextjs/Baremetal
 
 ## 💪 Projects
 
-- **[FileRunner](https://github.com/JulioDoAr/FileRunner)**: A simple library to create recursive processes that affect a directory tree created a log time ago...
-- **[Snake Game](https://github.com/JulioDoAr/snake-game)**: Recreation of the popular game "Snake" made in Typescript as way to start learning the lenguaje.
+- **[FileRunner](https://github.com/JulioDoAr/FileRunner)**: A simple library to create recursive processes that affect a directory tree created a long time ago...
+- **[Snake Game](https://github.com/JulioDoAr/snake-game)**: Recreation of the popular game "Snake" made in Typescript as way to start learning the lenguaje and the Proton library.
 - **[University Projects](https://github.com/JulioDoAr/university-projects)**: Compendium of projects done for the university as learning. High variety of languajes and technologies. Sometimes done in a hurry sometimes not...
 - **[Quinielistas](https://github.com/JulioDoAr/quinielistas-public)**: Angular webpage made in 2019
 
